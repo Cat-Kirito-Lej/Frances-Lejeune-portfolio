@@ -9,78 +9,80 @@ Summary of Qualifications
 
 Dedicated and detail-oriented IT professional with a comprehensive understanding of Information Technology gained through the completion of the rigorous 24-week IT Technology Course. Equipped with hands-on experience in mobile devices, networking, hardware, troubleshooting, virtualization, and cloud computing. Seeking to leverage acquired skills and knowledge to excel in entry-level roles in IT Support and Security. 
 
-SKILL
-Mobile Device Configuration 
-Network Protocols/Connectivity 
-Hardware Components
-Virtualization Technologies 
-Cloud Computing Principles 
-Operating System Installation
-Linux
-Security Best Practices 
-Troubleshooting Techniques 
-Documentation/Support Systems 
-MacOS
-Advanced first aid
-Cargo handling
-Firearm and explosives handling
-Laboratory tests and examinations
-Piping system installation and repair
-Sample/specimen collection and processing
-Water management systems
-Aircraft & Ship Maintenance / Crew Operations
-Hydraulics Systems Installation / Repair
-Mechanical Equipment / System Installation / Repair
-Aircraft Electrical Systems
-Troubleshooting & Diagnostics
-Circuit Testing & Inspection
-Technical Documentation & Compliance
-Flight Line Operations
-Team Collaboration & Leadership
-Safety & Quality Assurance
-Customer Service & Communication
-Fuel Logistics & Distribution
-Inventory & Supply Chain Management
-Hazardous Material Handling & Safety
-Petroleum Equipment Maintenance
-Operational Support & Coordination
-Quality Control & Compliance
-Team Leadership & Training
-Data Entry & Record Keeping
-Regulatory Compliance (EPA, OSHA, etc.)
-Problem Solving
-Cleaning & Janitorial Services
-Restroom Sanitation & Disinfection
-Floor Care (Sweeping, Mopping, Buffing)
-Safety & Hazardous Materials Handling
-Routine Building Maintenance
-Inventory Management of Cleaning Supplies
-Time Management 1 Task Prioritization 1 Multitasking
-Personal Care Assistance (bathing, dressing, grooming)
-Mobility Assistance & Transfer Techniques
-Medication Reminders & Administration Assistance
-Alzheimer’s & Dementia Care
-Meal Preparation & Nutritional Support
-Emotional & Companionship Support
-Light Housekeeping & Laundry
-Patient Advocacy & Communication
-Safety Monitoring & Fall Prevention
-HIPAA Compliance & Confidentiality
-Teamwork & Collaboration with Healthcare Providers
-Product Knowledge & Sales Assistance
-Cash Register Operation & Payment Processing
-Inventory Management & Stocking
-Upselling & Cross-Selling Products
-Conflict Resolution & Problem-Solving
-Store Merchandising & Visual Display
-Teamwork & Collaboration
-Basic Knowledge of Home Improvement Products (Electrical, Paint, Plumbing, Flooring and Appliances)
+SKILLS
+
+Mobile Device Configuration /
+Network Protocols/Connectivity / 
+Hardware Components / 
+Virtualization Technologies / 
+Cloud Computing Principles / 
+Operating System Installation / 
+Linux / 
+Security Best Practices / 
+Troubleshooting Techniques / 
+Documentation/Support Systems / 
+MacOS / 
+Advanced first aid / 
+Cargo handling / 
+Firearm and explosives handling / 
+Laboratory tests and examinations / 
+Piping system installation and repair / 
+Sample/specimen collection and processing / 
+Water management systems / 
+Aircraft & Ship Maintenance / Crew Operations / 
+Hydraulics Systems Installation / Repair / 
+Mechanical Equipment / System Installation / Repair / 
+Aircraft Electrical Systems / 
+Troubleshooting & Diagnostics / 
+Circuit Testing & Inspection / 
+Technical Documentation & Compliance / 
+Flight Line Operations / 
+Team Collaboration & Leadership / 
+Safety & Quality Assurance / 
+Customer Service & Communication / 
+Fuel Logistics & Distribution / 
+Inventory & Supply Chain Management / 
+Hazardous Material Handling & Safety / 
+Petroleum Equipment Maintenance / 
+Operational Support & Coordination / 
+Quality Control & Compliance / 
+Team Leadership & Training / 
+Data Entry & Record Keeping / 
+Regulatory Compliance (EPA, OSHA, etc.) / 
+Problem Solving / 
+Cleaning & Janitorial Services / 
+Restroom Sanitation & Disinfection / 
+Floor Care (Sweeping, Mopping, Buffing) / 
+Safety & Hazardous Materials Handling / 
+Routine Building Maintenance / 
+Inventory Management of Cleaning Supplies / 
+Time Management 1 Task Prioritization 1 Multitasking / 
+Personal Care Assistance (bathing, dressing, grooming) / 
+Mobility Assistance & Transfer Techniques / 
+Medication Reminders & Administration Assistance / 
+Alzheimer’s & Dementia Care / 
+Meal Preparation & Nutritional Support / 
+Emotional & Companionship Support / 
+Light Housekeeping & Laundry / 
+Patient Advocacy & Communication / 
+Safety Monitoring & Fall Prevention / 
+HIPAA Compliance & Confidentiality / 
+Teamwork & Collaboration with Healthcare Providers / 
+Product Knowledge & Sales Assistance / 
+Cash Register Operation & Payment Processing / 
+Inventory Management & Stocking / 
+Upselling & Cross-Selling Products / 
+Conflict Resolution & Problem-Solving / 
+Store Merchandising & Visual Display / 
+Teamwork & Collaboration / 
+Basic Knowledge of Home Improvement Products (Electrical, Paint, Plumbing, Flooring and Appliances) / 
 
 Technical: 
 
-
 RELEVANT EXPERIENCE
+
 ________________________________________
+
 IT Support Trainee, Climb Hire, Berkeley, CA (Remote) 			July 2024 – January 2025 
 ●	Skilled in IT essential, diagnostics, network/security, fundamentals and networks. 
 ●	Knowledge of network connectivity, maintaining LAN’s, WAN’s, configuration, implementation, maintenance and support of all hardware, wiring for Network Equipment servers, personal computers, and printers. 
@@ -95,6 +97,7 @@ IT Support Trainee, Climb Hire, Berkeley, CA (Remote) 			July 2024 – January 2
 
 EMPLOYMENT HISTORY
 ________________________________________
+
 Fellow 1 Climb Hire 1 October 2025 – Current
 ●	Mentored aspiring IT support professionals in preparation for the CompTIA A+ certification
 ●	Facilitated small-group cohort (“pod”) sessions focused on hardware, software, operating systems, and troubleshooting fundamentals
@@ -174,5 +177,7 @@ EDUCATION
 ●	CompTIA Network + N10-009 1 Western Governors University 1 March 2026
 
 ●	Bachelors’ in Cybersecurity 1 Western Governors University 1 In process
+
 ________________________________________
+
 PROJECTS
