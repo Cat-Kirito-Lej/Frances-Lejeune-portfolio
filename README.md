@@ -115,6 +115,7 @@ Home Health Care Partner l Accent Care, Beaumont, TX l August 2021 - July 2023
 ●	Perform light housekeeping duties, including laundry, cleaning, and organizing, to maintain a comfortable and safe living environment, which helped with the physical and mental health of the patients and of those living in the home with the patient.
 ●	Document client progress, report changes in condition, and communicate with family members and healthcare teams to ensure continuity of care.
 ●	Adhere to health and safety regulations, maintaining a clean, organized, and safe environment for clients.
+
 Jennings LA City Hall Janitor l Merry Maids, Lafayette, LA l August 2018 - December 2018 
 ●	Utilized specialized hydraulic equipment to sanitize City Hall work spaces on a daily basis.
 ●	Cleaned designated areas within a public building, ensuring a clean and safe environment for employees, visitors, and clients.
@@ -124,6 +125,7 @@ Jennings LA City Hall Janitor l Merry Maids, Lafayette, LA l August 2018 - Decem
 ●	Responded to specific cleaning requests and emergencies, including spills and accidents, to quickly restore cleanliness and safety.
 ●	Followed safety guidelines and used personal protective equipment to minimize health hazards and maintain a safe working environment.
 ●	Interacted professionally with staff, visitors, and city officials, providing excellent customer service when needed. 
+
 Customer Service Associate II l Lowe’s Home Improvement, Lufkin, TX l March 2013 - December 2017
 ●	Worked in Electrical, Paint, Flooring, Plumbing, Freight and Customer Service Desk departments, and assisted Alexandria LA, Monroe LA, Pineville LA, Ruston LA, Shreveport LA, Nacogdoches TX, and Port Arthur stores as needed
 ●	Set up orders over the phone, set up installs, invoice items for delivery or assist customers with major orders.
@@ -135,6 +137,7 @@ Customer Service Associate II l Lowe’s Home Improvement, Lufkin, TX l March 20
 ●	Collaborate with team members and supervisors to meet store goals and maintain high standards of service.
 ●	Demonstrate safe handling of products and materials, following store policies and safety regulations.
 ●	Support inventory management by tracking stock levels and reporting discrepancies or low inventory to supervisors.
+
 92F Petroleum Supply Specialist 1 US Army Reserves 1 September 2010 – September 2016
 ●	Piping System Installation and Repair
 ●	Managed the receipt, storage, and distribution of petroleum products to support mission-critical operations, ensuring the fuel supply chain ran smoothly and effectively.
@@ -147,6 +150,7 @@ Customer Service Associate II l Lowe’s Home Improvement, Lufkin, TX l March 20
 ●	Managed fuel distribution to a wide range of vehicles and aircraft, ensuring timely deliveries and maintaining mission readiness.
 ●	Maintained accurate records of fuel transactions, deliveries, and inventory levels using military logistics software.
 ●	Coordinated with platoon members to perform regular maintenance checks on transport vehicles and worked with Maintenance shop to reduce downtime of vehicles in order of priority.
+
 2A656 F16 Electrical and Environmental Specialist 1 US Air Force 1 June 2008 – May 2010
 ●	Perform cryogenic maintenance on mobile aircraft servicing units
 ●	Ensure compliance with technical publications and directives
@@ -158,11 +162,17 @@ Customer Service Associate II l Lowe’s Home Improvement, Lufkin, TX l March 20
 ●	Worked with contractors and other departments to facilitate seamless workflow in repair and maintenance processes.
 ●	Used paper and computerized ticketing systems to documented maintenance actions, inspections, and repairs according to Air Force regulations, maintaining accurate records for future reference and audits.
 ●	Ensured compliance with safety regulations and military standards significantly reducing safety incidents and equipment failures.
+
 ________________________________________
+
 EDUCATION
+
 ●	IT Support Certificate CompTIA A+ 220-1101 & 220-1102 l Climb Hire l February 2025 
+
 ●	IT Support Professional Certificate  l  Coursera Google  l  January 2025
+
 ●	CompTIA Network + N10-009 1 Western Governors University 1 March 2026
+
 ●	Bachelors’ in Cybersecurity 1 Western Governors University 1 In process
 ________________________________________
 PROJECTS
