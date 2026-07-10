@@ -83,6 +83,7 @@ RELEVANT EXPERIENCE
 
 ________________________________________
 
+
 IT Support Trainee, Climb Hire, Berkeley, CA (Remote) 			July 2024 – January 2025 
 ●	Skilled in IT essential, diagnostics, network/security, fundamentals and networks. 
 ●	Knowledge of network connectivity, maintaining LAN’s, WAN’s, configuration, implementation, maintenance and support of all hardware, wiring for Network Equipment servers, personal computers, and printers. 
@@ -96,7 +97,9 @@ IT Support Trainee, Climb Hire, Berkeley, CA (Remote) 			July 2024 – January 2
 ●	Collaborate cross-functionally with peers, alumni, instructors, and staff in a remote environment.
 
 EMPLOYMENT HISTORY
+
 ________________________________________
+
 
 Fellow 1 Climb Hire 1 October 2025 – Current
 ●	Mentored aspiring IT support professionals in preparation for the CompTIA A+ certification
