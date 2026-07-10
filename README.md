@@ -1,5 +1,5 @@
 Frances Lejeune 
-Lufkin, TX | (934)-404-2943 | franceshileman@aol.com | LinkedIn: (https://www.linkedin.com/in/frances-lejeune) 
+Lufkin, TX | (934)-404-2943 | franceshileman@aol.com | [LinkedIn:](https://www.linkedin.com/in/frances-lejeune) 
  | 
 
 
